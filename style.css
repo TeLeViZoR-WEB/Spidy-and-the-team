@@ -1,0 +1,36 @@
+img{
+    width: 350px;
+}
+
+body{
+    background-color: crimson;
+    background-image: url(./images/bg2.jpg);
+    background-size:  cover;
+    background-attachment:fixed;
+    background-position:center;
+    text-align: center;
+
+    text-align: center;
+}
+p{
+    font-size: 28px;
+    background-color: #f0f8ff;
+    border-radius: 30px;
+    padding: 20px;
+    }
+
+    button{
+        font-size: 20px;
+        padding: 10px 20px
+        border : none;
+        background-color:
+        #430979bc ;
+        color : white;
+        border-radius : 30px;
+        box-shadow: 0px 0px 50px
+        white
+         margin-top: 20px;
+        
+        }
+        button:hover{
+        background-color: ☐ #3140125;
